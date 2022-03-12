@@ -1,7 +1,6 @@
 .auditore.link
 .auditore.cn
 .auditore.ml
-.my-ip.io
 emby.cjpc.cc
 pub1.emby.wtf
 pub2.emby.wtf
