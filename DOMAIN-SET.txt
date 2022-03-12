@@ -8,7 +8,6 @@ pub3.emby.wtf
 ip.istatmenus.app
 weather.istatmenus.app
 sessions.bugsnag.com
-.my-ip.io
 150.230.255.23
 146.56.186.202
 150.230.201.47
