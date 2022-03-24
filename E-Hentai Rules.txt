@@ -16,3 +16,4 @@
 .hath.network
 .exhentai.org
 .e-hentai.org
+r3.o.lencr.org
