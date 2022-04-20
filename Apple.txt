@@ -1,2 +1,3 @@
 weather-analytics-events.apple.com
 weather-data.apple.com
+c.apple.news
