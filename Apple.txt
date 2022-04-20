@@ -1,1 +1,2 @@
 weather-analytics-events.apple.com
+weather-data.apple.com
