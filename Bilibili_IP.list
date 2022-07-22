@@ -7,3 +7,6 @@ URL-REGEX,host=api.bilibili.com&query=4
 # 登陆检测api（暂时无法确定是否会影响个人主页IP属地）
 DOMAIN,passport.bilibili.com
 URL-REGEX,host=passport.bilibili.com&query=4
+
+# 暂时不知道会不会被用在IP属地检测的api
+URL-REGEX,web-interface/zone
