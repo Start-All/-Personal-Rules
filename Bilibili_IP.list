@@ -1,7 +1,7 @@
 # 注意！Surge需要提前在配置文件中添加额外规则：force-http-engine-hosts = 203.107.1.*:80
 
 # 评论IP属地检测（非全部，在某些情况下疑似会使用其他api检测，默认情况下只通过以下api检测）
-URL-REGEX,https://api.bilibili.com/x/v2/reply/*
+URL-REGEX,https://api.bilibili.com/x/v2/reply/add
 URL-REGEX,host=api.bilibili.com&query=4
 
 # 登陆检测api（暂时无法确定是否会影响个人主页IP属地）
