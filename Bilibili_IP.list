@@ -11,3 +11,4 @@ URL-REGEX,host=passport.bilibili.com&query=4
 # 暂时不知道会不会被用在IP属地检测的api
 # URL-REGEX,/x/web-interface
 # URL-REGEX,http://api.bilibili.com/client_info
+URL-REGEX,https://app.bilibili.com/x/resource/ip
