@@ -1,2 +1,2 @@
 # 此api会影响整个动态获取，不建议长期处于代理状态
-# DOMAIN,grpc.biliapi.net
+DOMAIN,grpc.biliapi.net
