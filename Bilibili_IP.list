@@ -12,3 +12,4 @@ URL-REGEX,host=passport.bilibili.com&query=4
 # URL-REGEX,/x/web-interface
 # URL-REGEX,http://api.bilibili.com/client_info
 URL-REGEX,https://app.bilibili.com/x/resource/ip
+URL-REGEX,host=app.bilibili.com&query=4
