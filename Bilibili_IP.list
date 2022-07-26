@@ -6,6 +6,9 @@ URL-REGEX,host=api.bilibili.com&query=4
 
 # 登陆检测api（暂时无法确定是否会影响个人主页IP属地）
 DOMAIN,passport.bilibili.com
+DOMAIN,log1.cmpassport.com
+DOMAIN,passport.bigfun.cn
+DOMAIN,passport.bigfunapp.cn
 URL-REGEX,host=passport.bilibili.com&query=4
 
 # 暂时不知道会不会被用在IP属地检测的api
